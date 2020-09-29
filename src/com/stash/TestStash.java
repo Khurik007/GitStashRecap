@@ -7,6 +7,9 @@ public class TestStash {
 		System.out.println("Modification of our code");
 	    System.out.println("Hello World");
 	    System.out.println("Hi");
+	    
+	    
+	    System.out.println("Git Stash pop");
 	}
 
 }
